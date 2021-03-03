@@ -1,0 +1,38 @@
+.whyus-card-comp{
+    display: flex;
+    justify-content: space-between;
+}
+.body-whyus{
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #557DA526;
+    border-radius: 5px;
+    opacity: 1;
+    margin-right: 30px;
+}
+.whyus-title{
+    color: var(--unnamed-color-43afff);
+    text-align: left;
+    font: normal normal medium 22px/27px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #43AFFF;
+    text-transform: capitalize;
+    opacity: 1;
+    width: 172px;
+    height: 53px;
+    font-size: 22px;
+    padding-left: 20px;
+}
+.whyus-desc{
+    color: var(--unnamed-color-303f60);
+    text-align: left;
+    font: normal normal normal 14px/20px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #303F60;
+    opacity: 1;
+    width: 251px;
+    height: 56px;
+    padding-left: 20px;
+    padding-top: 4px;
+    padding-right: 25px;
+    }

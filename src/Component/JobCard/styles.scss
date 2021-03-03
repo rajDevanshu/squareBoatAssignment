@@ -1,0 +1,54 @@
+.position{
+    text-align: left;
+    font: normal normal normal 17px/20px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #303F60;
+    opacity: 1;
+    font-size: 17px;
+    padding-left: 15px;
+    width: 150px;
+    overflow: hidden;
+    &.applied{
+        padding-top: 10px;
+    }
+}
+.jd{
+    text-align: left;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #303F60;
+    opacity: 0.8;
+    font-size: 14px;
+    padding-left: 15px;
+    width: 150px;
+    overflow: hidden;
+}
+.card-footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 15px;
+    margin-top: -15px;
+}
+.city{
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #303F60;
+    opacity: 0.8;
+}
+.view-app{
+    background: #43AFFF33 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    opacity: 1;
+    color: #303F60;
+    font-size: 14px;
+    width: 105px;
+    height: 32px;
+    justify-content: center;
+    display: flex;
+    padding-top: 7px;
+    margin-top: 4px;
+    &.broad{
+        padding: 0px 4px;
+        padding-top: 8px;
+    }
+    }

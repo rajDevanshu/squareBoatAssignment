@@ -1,0 +1,22 @@
+
+.reset-page-style{
+    background-color: #EDF6FF;
+    height: 100%;
+
+    .reset-head{
+        background:linear-gradient(to right,#1A253C, #303F60);
+        height: 362px;
+
+       .reset-banner-style {
+        max-width: 1128px;
+        display: block;
+        margin: auto;
+        padding: 2px 0px 68px 0px;
+            
+            .header{
+                display: flex;
+                justify-content: space-between;
+            }
+     } 
+    }
+}
